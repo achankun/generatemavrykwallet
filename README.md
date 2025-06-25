@@ -1,4 +1,4 @@
-Berikut contoh file `README.md` yang bisa kamu gunakan untuk repositori GitHub `https://github.com/achankun/generatemavrykwallet.git`:
+##GENERATE WALLET MAVRYK
 
 ---
 
