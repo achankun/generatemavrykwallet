@@ -1,8 +1,6 @@
 ##GENERATE WALLET MAVRYK
 
 ---
-
-````markdown
 # 🧠 Generate Mavryk Wallet Bot
 
 Script ini digunakan untuk generate wallet secara otomatis di jaringan **Mavryk Network**.
