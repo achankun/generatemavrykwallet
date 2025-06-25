@@ -1,4 +1,4 @@
-##GENERATE WALLET MAVRYK
+
 
 ---
 # 🧠 Generate Mavryk Wallet Bot
