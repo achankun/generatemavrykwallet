@@ -1,1 +1,1 @@
-# generatemavrykwallet
+# GenerateMavrykWallet
